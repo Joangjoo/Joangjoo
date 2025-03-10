@@ -7,25 +7,73 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo"  />
-</div>
+<h2 align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=3000&color=00C9FF&width=250&lines=%3C+MySkills+%2F%3E" alt="Typing SVG" style="display: inline; vertical-align: middle;" /></a>
+</h2>
+
+
+<table align="center">
+ <tr>
+   <th>Category</th>
+   <th>Skills</th>
+ </tr>
+  <tr>
+    <td>Frameworks</td>
+    <td align="center" width = "1000">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+      <img width="15" />
+      <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="36" alt="Laravel" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" />
+      <img width="15" />
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="Tailwind CSS" />
+      <img width="15" />
+      <img src="https://cdn.simpleicons.org/vue.js/4FC08D" height="36" alt="VUE" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="36" alt="CodeIgniter" />
+    </td>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/mongodb/47A248" height="36" alt="MongoDB" />
+      <img width="15" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td>IDE & Environment</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VSCode" />
+      <img width="15" />
+    </td>
+  </tr>
+  <tr>
+    <td>APIs & Hosting</td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" />
+      <img src="https://skillicons.dev/icons?i=postman" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=railway"/>
+    </td>
+  </tr>
+</table>
+
 
 ###
 
