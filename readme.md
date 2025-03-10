@@ -2,9 +2,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/Joangjoo?template=classic&languages=1&achievements=1&habits=1&notable=1&theme=dracula" alt="Metrics GitHub"/>
-</div>
+  ![Snake animation](https://raw.githubusercontent.com/Joangjoo/Joangjoo/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
 
@@ -46,6 +45,10 @@
 </div>
 
 ###
+
+
+  ![Snake gif](https://raw.githubusercontent.com/Joangjoo/Joangjoo/output/github-contribution-grid-snake-dark.svg)
+
 
 <p align="left">Welcome To My Githubbb</p>
 
